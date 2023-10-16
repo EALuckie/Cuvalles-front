@@ -1,0 +1,39 @@
+.container {
+    background-color: white;
+    display: flex;
+    height: 90%;
+    width: 100%;
+}
+
+
+
+.login-photo {
+    width: 100vh;
+    height: 100vh;
+    object-fit: cover;
+    
+}
+
+.form {
+    background-color: white;
+    
+    text-align: center;
+    position: absolute;
+    right: 40vh;
+}
+
+.gap {
+    height: 25vh;
+}
+
+.footer {
+    background-color: gainsboro;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    height: 7%;
+    width: 100%;
+}

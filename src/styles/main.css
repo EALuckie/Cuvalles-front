@@ -1,0 +1,28 @@
+.dash-container {
+    /* display: flex; */
+    background-color: #6c848d;
+}
+
+.display {
+    display: flex;
+    
+}
+
+.navbar {
+    border-style: solid;
+    height: 5vh;
+}
+
+.main {
+    border-style: solid;
+    width: 79%;
+    height: 94vh;
+}
+
+.side-info {
+    border-style: solid;
+    position: absolute;
+    right: 0px;
+    width: 20%;
+    height: 94vh;
+}
